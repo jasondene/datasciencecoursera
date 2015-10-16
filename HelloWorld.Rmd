@@ -1,7 +1,7 @@
 ## This is a markdown file
 
 ---
-title: "HelloWorld"
+title: "Hello World"
 author: "jasondene"
 date: "October 15, 2015"
 output: html_document
